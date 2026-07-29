@@ -201,13 +201,10 @@ Main endpoints:
 
 # 🔒 Error Handling
 
-The application validates:
+The application provides user feedback when:
 
-* Invalid Excel files
-* Invalid dates
-* HTTP request failures
-* API communication errors
-* Spreadsheet update issues
+* An invalid Excel file is selected.
+* The spreadsheet cannot be processed.
 
 ---
 
