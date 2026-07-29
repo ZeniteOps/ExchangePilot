@@ -12,3 +12,4 @@ wheels/
 # Excel files
 *.xlsx
 *.csv
+dataset/*.xlsx
